@@ -1,0 +1,6 @@
+{
+  "name": "AEGIS Intelligence",
+  "description": "Next-generation intelligence interface featuring Gemini AI omnibox, Spark tactical telemetry matrix, collaborative notebooks, and multimodal creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
